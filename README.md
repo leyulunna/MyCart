@@ -23,3 +23,6 @@ Project is created with:
 3. Run `npm start` for a dev server. Navigate to `http://localhost:3000/`.
 4. Hope you enjoy it :).
 
+## Image
+[Imgur](https://i.imgur.com/PAaWlNb.png "Add a product into your cart")
+[Imgur](https://i.imgur.com/mrsICyZ.png "Click My Cart to toggle the cart and manage the quantity of products")
